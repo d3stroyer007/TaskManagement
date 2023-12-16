@@ -1,8 +1,6 @@
 tasks = [] # creating empty list
 
-# stuff
-
-while True:
+    while True:
     print("\nTo-Do List Menu")
     print('''1. Add Task''')
     print('''2. View Tasks''')
