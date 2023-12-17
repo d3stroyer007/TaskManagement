@@ -1,5 +1,7 @@
 tasks = [] # creating empty list
 
+
+
     while True:
     print("\nTo-Do List Menu")
     print('''1. Add Task''')
@@ -9,8 +11,6 @@ tasks = [] # creating empty list
     print('''5. Quit''')
 
     choice = input("What would you like to do today? (1/2/3/4/5)")
-
-
 
     if choice == "1":
         task = input("Enter your task: ")
